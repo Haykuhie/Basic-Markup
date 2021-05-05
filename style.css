@@ -1,0 +1,132 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    padding:10px;
+}
+.first{
+  width:97vw;
+  height:8.5vh;
+  display:flex;
+  justify-content: space-around;
+}
+.small{
+    width:12vw;
+    height:8vh;
+    margin:5px;
+    background:#F4F4F4;
+    line-height:50px;
+    text-align:center;
+    font-size: 17px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;  
+}
+.flex{
+    display:flex;
+    margin:0 0 0 27px;
+    width:94.5vw;
+}
+.second{
+    width:12vw;
+    height:35vh;
+    background-image:url(1.png);
+    background-position:center;
+}
+.third{
+    width:81vw;
+    height:32.5vh;
+    background:#87C7E8; 
+    padding-top:15px;
+}
+ .blueBackground{
+     height:6vh;
+     line-height: 6vh;
+     background:#008BD6;
+     margin: 5px 0;
+     display:flex;
+     padding-left:15px;
+ }
+ .forBorders{
+     display:flex;
+ }
+ .border{
+    margin-top:5px;
+    width:0;
+    height:0;    
+    border-left:18.5px solid #008BD6;
+    border-bottom:18.5px solid transparent;
+    border-top:18.5px solid transparent;
+ }
+ .h1_1{
+    width: 76vw;
+ }
+ 
+ .h1_2{
+    width: 50vw;
+ }
+ .h1_3{
+    width: 65vw;
+ }
+.thirty{
+    width:14vw;
+}
+
+
+.threeLines{
+    height:25vh;
+    margin-top:-2px;
+    background:#9ADDF6;
+}
+.secondBKG{
+    height:27vh;
+    background-image:url(2.png)
+}
+.h2_1{
+    width: 55vw;
+    background:#0EA6DE;
+ }
+ .h2_2{
+    width: 45vw;
+    background:#0EA6DE;
+ }
+
+ .border1{
+    border-left:18.5px solid #0EA6DE;
+ }
+ .thirdBKG{
+    height:20vh;
+    background-image:url(3.png)
+ }
+ .twoLines{
+    height:17.5vh;
+    margin-top:-1px;
+    background:#90D0C9;
+ }
+ .h3_1{
+    width: 50vw;
+    background:#139F91;
+ }
+ .h3_2{
+    width: 44vw;
+    background:#139F91;
+ }
+ .border2{
+    border-left:18.5px solid #139F91;
+ }
+ .fourthBKG{
+    background-image:url(4.png);
+    background-size:cover;
+    height:20vh;
+ }
+ .twoLines2{
+    background:#D4D4D4;
+ }
+ .h4_1{
+    width: 47vw;
+    background:#858686;
+ }
+ .border3{
+    border-left:18.5px solid #858686;
+ }
+ 
